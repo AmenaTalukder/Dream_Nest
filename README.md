@@ -38,3 +38,8 @@ Dream Nest is a full-stack web application designed for users to **explore, list
 - Multer (File uploads)
 - Socket.io (Real-time support)
 - dotenv, cors
+
+  # Demo
+![screencapture-localhost-3001-2025-07-03-14_38_45](https://github.com/user-attachments/assets/2d917999-f216-4fea-9884-8c98c2415c82)
+
+  
