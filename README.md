@@ -41,5 +41,7 @@ Dream Nest is a full-stack web application designed for users to **explore, list
 
   # Demo
 ![screencapture-localhost-3001-2025-07-03-14_38_45](https://github.com/user-attachments/assets/2d917999-f216-4fea-9884-8c98c2415c82)
+![image](https://github.com/user-attachments/assets/ac02736b-c54a-4f98-9a3c-de42acc2ee71)
+
 
   
